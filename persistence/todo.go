@@ -2,7 +2,7 @@ package persistence
 
 import (
 	"github.com/jmoiron/sqlx"
-	domain "github.com/xudexa/go_domain_todo/domain"
+	domain "github.com/xudexa/go_domain_todos/domain"
 )
 
 type TodoRepository struct {
